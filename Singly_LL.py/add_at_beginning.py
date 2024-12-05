@@ -53,5 +53,6 @@ class LinkedList:
 my_linked_list=LinkedList(1)
 my_linked_list.append_at_end(2)
 my_linked_list.append_at_end(3)
+my_linked_list.append_at_end(4)
 my_linked_list.pop_from_end()
 my_linked_list.print_list()
